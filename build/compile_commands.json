@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/rusa/rusagot_genetic_optimizer_tracker/build/src",
+  "command": "/usr/bin/g++  -I/home/rusa/rusagot_genetic_optimizer_tracker/include -isystem /home/rusa/opencv/default_opencv_install/include/opencv4 -g -std=gnu++17 -o CMakeFiles/rusagot.dir/main.cpp.o -c /home/rusa/rusagot_genetic_optimizer_tracker/src/main.cpp",
+  "file": "/home/rusa/rusagot_genetic_optimizer_tracker/src/main.cpp"
+}
+]

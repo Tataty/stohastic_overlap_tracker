@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include",
+                "/usr/local/include",
+                "/home/rusa/opencv/default_opencv_install/include/opencv4"
+            ]
+        }
+    ],
+    "version": 4
+}
